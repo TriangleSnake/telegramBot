@@ -1,0 +1,2 @@
+area=tn
+region=台南
